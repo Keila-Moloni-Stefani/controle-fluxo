@@ -61,7 +61,7 @@ Pré-requisitos
 
 ### 1. Clone o repositório
 ```bash
-git clone https://github.com/seu-usuario/desafio-controle-fluxo.git
+git clone https://github.com/Keila-Moloni-Stefani/controle-fluxo.git
 cd desafio-controle-fluxo
 ```
 
